@@ -22,7 +22,7 @@
   </li>
   <li>
     <h2>
-      Check out my <a href="https://kamilkrukowski.com">website.</a>
+      Check out my <a href="https://kamilkrukowski.com">website</a>
     </h2>
   </li>
   <li>
