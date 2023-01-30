@@ -7,12 +7,12 @@
 <ul style="list-style: none; padding: 0; margin:0; text-align: center">
   <li>
     <h2>
-      Data Analyst.
+      Data Analyst
     </h2>
   </li>
   <li>
     <h2>
-      Interested in finance, privacy, accessibility, football, and sustainability.
+      Interested in finance, privacy, accessibility, football, and sustainability
     </h2>
   </li>
   <li>
